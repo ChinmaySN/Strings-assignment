@@ -1,0 +1,36 @@
+Q1: We can store a single quote by putting it in double quotes.
+like " ' ". Now this can be used as a variable.
+
+Q2: x = 'a'
+here x is a string type variable as anything added in a single or double quote will be treated as a string
+
+Q3: p = 'Welcome to Python foundat1on course'
+1    p.find('P')
+     11
+2    p.count('o')
+     6
+3    len(p)
+     35
+4
+
+Q4: a   lower=0
+        for i in d:
+            if(i.islower()):
+               lower+=1
+         print(lower)
+         
+         4
+         
+b  upper=0
+for i in d:
+      if(i.isupper()):
+            upper+=1
+            
+            print(upper)
+            
+            2
+            
+Q5: c = 12345   
+c = str(c)
+c
+'12345'
